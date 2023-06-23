@@ -45,11 +45,7 @@
       {
         "name": "Sass",
         "image": "https://www.svgrepo.com/show/354310/sass.svg" 
-      },
-      {
-        "name": "Vite",
-        "image": "https://www.svgrepo.com/show/374167/vite.svg" 
-      },
+      }, 
       {
         "name": "Vercel",
         "image": "https://www.svgrepo.com/show/378475/vercel-fill.svg" 
