@@ -1,1 +1,1 @@
-# [Ayush sharma](https://ayushsharma.co)
+# [Ayush Sharma](https://ayushsharma.co)
