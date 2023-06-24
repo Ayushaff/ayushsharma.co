@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f1e473f9.css",
-    "main.js": "/static/js/main.9cd1375d.js",
+    "main.js": "/static/js/main.ce7a7f51.js",
     "static/media/Ashutosh7i_Github_Code_Innovation_Series2022.png": "/static/media/Ashutosh7i_Github_Code_Innovation_Series2022.58dfe89475644e054ed7.png",
     "static/media/Ashutosh7i Python 3X.png": "/static/media/Ashutosh7i Python 3X.07168b510f416fae2271.png",
     "static/media/giphy.gif": "/static/media/giphy.1a8fa7c2a0978bec7445.gif",
@@ -38,10 +38,10 @@
     "static/media/k.svg": "/static/media/k.f80c22617b9830a64ccd.svg",
     "static/media/j.svg": "/static/media/j.d336038fb25f7c24999d.svg",
     "main.f1e473f9.css.map": "/static/css/main.f1e473f9.css.map",
-    "main.9cd1375d.js.map": "/static/js/main.9cd1375d.js.map"
+    "main.ce7a7f51.js.map": "/static/js/main.ce7a7f51.js.map"
   },
   "entrypoints": [
     "static/css/main.f1e473f9.css",
-    "static/js/main.9cd1375d.js"
+    "static/js/main.ce7a7f51.js"
   ]
 }
