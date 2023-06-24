@@ -31,11 +31,7 @@
       
     ],
     "buttons": [
-      {
-        "name": "Devfolio",
-        "url": "https://devfolio.co/projects/healthease-01d9"
-      },
-      { "name": "Github", "url": "https://github.com/ashutosh7i/HealthEase" }
+      { "name": "Github", "url": "https://github.com/Ayushaff/EdTech-Platform" }
 
     ]
   },
@@ -52,7 +48,7 @@
     "buttons": [
       {
         "name": "Github",
-        "url": "https://github.com/ashutosh7i/Student-Centric_Online_Code_Compiler"
+        "url": "https://github.com/Ayushaff/Hackit"
       }
     ]
   },
@@ -72,7 +68,7 @@
       { "name": "Full-Stack", "color": "red" }
     ],
     "buttons": [
-      { "name": "Github", "url": "https://example.com" }
+      { "name": "Github", "url": "https://github.com/Ayushaff/Ecommerce-MERN" }
     ]
   }
 ]
