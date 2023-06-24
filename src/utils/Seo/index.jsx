@@ -37,7 +37,7 @@ export default function Seo(){
       {/* Additional */}
       <meta
         name="keywords"
-        content="Ayush Sharma, ashutosh7i, FullStack Developer, MERN Stack, Web Development, Ayush Sharma Indore, Ayush Sharma UEC"
+        content="Ayush Sharma, ayushaff, FullStack Developer, MERN Stack, Web Development, Ayush Sharma Indore, Ayush Sharma UEC"
       />
 
       {/* Structured Data */}
@@ -46,11 +46,11 @@ export default function Seo(){
           "@context": "https://schema.org",
           "@type": "Person",
           "name": "Ayush Sharma",
-          "url": "https://ashutosh7i.dev",
+          "url": "https://ayushsharma.co",
           "image": "https://ashutosh7i.dev/Profile.jpg",
           "sameAs": [
-            "https://www.linkedin.com/in/ashutosh7i/",
-            "https://github.com/ashutosh7i",
+            "https://www.linkedin.com/in/ayush-sharma-673990130/",
+            "https://github.com/ayushaff",
             // Add other social profiles
           ],
           "jobTitle": "FullStack Developer",
@@ -58,7 +58,7 @@ export default function Seo(){
             "@type": "Organization",
             "name": "Self-Employed"
           },
-          "alumniOf": "Acropolis Institute of Technology and Research",
+          "alumniOf": "Ujjain engineering college ,ujjain Madhya Pradesh, India",
           "location": "Indore"
         })}
       </script>
