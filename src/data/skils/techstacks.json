@@ -23,6 +23,14 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" 
       },
       {
+        "name": "NextJs",
+        "image": "https://www.svgrepo.com/show/354113/nextjs-icon.svg" 
+      },
+      {
+        "name":"AWS",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+      }
+      {
         "name": "Express",
         "image": "https://cdn.hackersandslackers.com/2020/05/express.png"
       },
