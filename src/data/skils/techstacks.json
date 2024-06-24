@@ -1,0 +1,158 @@
+[{
+    "name": "🕸️Web Stuff🌐",
+    "tags": "WebTechnologies",
+    "badges": [
+      { "text": "Proficiency🚀", "colorScheme": "yellow" },
+      { "text": "favourite😎", "colorScheme": "red" }
+    ],
+    "data": [
+      {
+        "name": "React",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" 
+      },
+      {
+        "name": "HTML",
+        "image": "https://cdn-icons-png.flaticon.com/512/732/732212.png" 
+      },
+      {
+        "name": "CSS",
+        "image": "https://cdn-icons-png.flaticon.com/512/732/732190.png" 
+      },
+      {
+        "name": "JavaScript",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" 
+      },
+      {
+        "name": "Express",
+        "image": "https://cdn.hackersandslackers.com/2020/05/express.png"
+      },
+      {
+        "name": "Nodejs",
+        "image": "https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" 
+      },
+      {
+        "name": "npm",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" 
+      },
+      {
+        "name": "Sass",
+        "image": "https://www.svgrepo.com/show/354310/sass.svg" 
+      },
+      {
+        "name": "Vite",
+        "image": "https://www.svgrepo.com/show/374167/vite.svg" 
+      },
+      {
+        "name": "Vercel",
+        "image": "https://www.svgrepo.com/show/378475/vercel-fill.svg" 
+      }
+    ]
+  },
+
+  {
+    "name": "📁Database💽",
+    "tags": "Databases",
+    "badges": [
+      { "text": "Skilled💪🏻", "colorScheme": "blue" },
+      { "text": "Project Based🤖", "colorScheme": "green" }
+    ],
+    "data": [
+      {
+        "name": "MySQL",
+        "image": "https://www.svgrepo.com/show/354099/mysql.svg" 
+      },
+      {
+        "name": "MongoDB",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb-svgrepo-com.svg" 
+      }
+    ]
+  },
+  {
+    "name": "💻Software🧑‍💻️",
+    "tags": "Software",
+    "badges": [
+      { "text": "Hobbie🥼🧪", "colorScheme": "yellow" },
+      { "text": "Interesting👨🏻‍🔬", "colorScheme": "pink" }
+    ],
+    "data": [
+      {
+        "name": "C++",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
+      },
+      {
+        "name": "Java",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" 
+      },
+      {
+        "name": "Python",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
+      },
+      {
+        "name": "TypeScript",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" 
+      }
+    ]
+  },
+  {
+    "name": "🛠️Backend🧑‍🏭️",
+    "tags": "Tools",
+    "badges": [
+      { "text": "DevOPS == 💖", "colorScheme": "purple" },
+      { "text": "Postman 👨🏻‍🎓 Expert", "colorScheme": "orange" }
+    ],
+    "data": [
+      {
+        "name": "Docker",
+        "image": "https://cdn-icons-png.flaticon.com/512/919/919853.png" 
+      },
+      {
+        "name": "Nginx",
+        "image": "https://www.svgrepo.com/show/373924/nginx.svg" 
+      },
+      {
+        "name": "Postman",
+        "image": "https://www.svgrepo.com/show/354202/postman-icon.svg" 
+      },
+      {
+        "name": "Socket.io",
+        "image": "https://socket.io/images/logo.svg" 
+      },
+      {
+        "name": "Git",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" 
+      },
+      {
+        "name": "Github",
+        "image": "https://cdn-icons-png.flaticon.com/128/5968/5968896.png" 
+      }
+    ]
+  },
+  {
+    "name": "🎨UIUX🧑‍🎨️",
+    "tags": "UIUX",
+    "badges": [
+      { "text": "Backend Dev 👨🏻‍💻😂", "colorScheme": "gray" },
+      { "text": "Creating👨🏻‍🎨", "colorScheme": "red" }
+    ],
+    "data": [
+      {
+        "name": "Chakra-UI",
+        "image": "https://bestofjs.org/logos/chakra-ui.svg" 
+      },
+      {
+        "name": "M-UI",
+        "image": "https://mui.com/static/logo.png" 
+      },
+      {
+        "name": "TailwindCSS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
+      },
+      {
+        "name": "Figma",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Figma.svg" 
+      }
+    ]
+  }
+
+
+]
